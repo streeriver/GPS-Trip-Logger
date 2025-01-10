@@ -1,0 +1,7 @@
+| State             | Page description                  | Top Button Action                   | Middle Button Action                                                | Bottom Button Action                  |
+| :---------------: | :-------------------------------: | :---------------------------------: | :-----------------------------------------------------------------: | :-----------------------------------: |
+| Sleep             | Screen sleeps after x seconds     | Wake screen                         | Wake screen                                                         | Wake screen                           |
+| Home              | Displays current trip information | Previous trip                       | Long press toggle "work"                                            | Options Menu                          |
+| Previous Trip     | Displays old trip information     | Previous trip                       | "                                                                   | Next trip or Home                     |
+| Options Menu      | Displays Menu options             | Back to Home                        | Select highlighted option                                           | Cycle through options                 |
+| Options selection | Highlights an option              | Scroll up through selection options | Deselect highlighted option. Long press saves option and deselects. | Scroll down through selection options |
